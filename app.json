@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DeeceApp",
+    "slug": "DeeceApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DeeceApp"
+}
